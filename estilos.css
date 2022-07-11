@@ -45,7 +45,7 @@
 }
 .div_izquierda {
   background-color: grey;
-  width: 140px;
+  width: 32%;
   height: 170px;
   padding: 5px;
   border-radius: 5px;
@@ -54,7 +54,7 @@
 }
 .div_derecha {
   background-color: lightsalmon;
-  width: 140px;
+  width: 32%;
   height: 170px;
   padding: 5px;
   border-radius: 5px;
@@ -63,7 +63,7 @@
 }
 .div_centro {
   background-color: lightblue;
-  width: 140px;
+  width: 32%;
   height: 170px;
   padding: 5px;
   border-radius: 5px;
@@ -78,7 +78,7 @@
 }
 .div_izquierda_sec2 {
   background-color: green;
-  width: 297px;
+  width: 65.5%;
   height: 170px;
   padding: 5px;
   border-radius: 5px;
@@ -87,7 +87,7 @@
 }
 .div_derecha_sec2 {
   background-color: brown;
-  width: 140px;
+  width: 32%;
   height: 170px;
   padding: 5px;
   border-radius: 5px;
